@@ -21,7 +21,6 @@ function rerender(){
 }
 
 function handleNumber(value) {
-    console.log("hello programmer")
     if (buffer === "0") {
         buffer = value;
     } else {
